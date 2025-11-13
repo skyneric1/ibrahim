@@ -1,0 +1,7 @@
+git add (nom du fichier).txt   : git add tempo.txt
+
+git commit -m ''v1''   #nouvelle version créée sur sousdossier.git
+
+git push 
+
+git pull
